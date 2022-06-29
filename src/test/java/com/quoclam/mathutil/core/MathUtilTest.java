@@ -25,7 +25,6 @@ public class MathUtilTest {
     public static Object[][] initData(){
         return new Integer[][]{
                                 {1, 1},
-                                {1, 1},
                                 {2, 2},
                                 {5, 120},
                                 {6, 720},
